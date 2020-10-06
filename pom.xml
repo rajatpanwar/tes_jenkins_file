@@ -9,7 +9,7 @@
 </properties>
   <distributionManagement>
     <snapshotRepository>
-       <id>cicd-nexus</id>
+       <id>nexus_lab10</id>
        <name>nexus_lab10</name>
        <url>http://localhost:8081/repository/nexus_lab10/</url>
     </snapshotRepository>
